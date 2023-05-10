@@ -1,3 +1,3 @@
 def celsius_to_kelvin(temp):
-    "Convert Celsius to Kelvin"
+    "Convert celsius to kelvin"
     return temp + 273.15
