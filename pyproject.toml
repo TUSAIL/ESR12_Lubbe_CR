@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "esr12-lubbe-cr"
+version = "0.1.0"
+description = ""
+authors = ["Retiefasuarus <96757771+Retiefasuarus@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "esr12_lubbe_cr"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+myst-parser = "^1.0.0"
+
+[tool.poetry.group.dev.dependencies]
+Sphinx = "<7"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
