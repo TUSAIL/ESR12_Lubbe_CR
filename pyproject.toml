@@ -12,6 +12,7 @@ myst-parser = "^1.0.0"
 
 [tool.poetry.group.dev.dependencies]
 Sphinx = "<7"
+jupyter = "^1.0.0"
 
 
 [build-system]
