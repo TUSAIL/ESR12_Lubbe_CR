@@ -11,6 +11,7 @@ Welcome to ConvertTemperature's documentation!
    :caption: Contents:
    
    feature-a
+   api.rst
 
 
 
